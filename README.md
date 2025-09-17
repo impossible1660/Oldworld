@@ -1,7 +1,9 @@
 # OldWorld
 ![OldWorld Logo](./oldworld.png)
 
-OldWorld is a work-in-progress, closed-source UCI chess engine. It’s being built with the goal of being simple to understand, easy to work with, and strong enough to play at a high level against strong engines like Komodo, Rubichess, Carp, and more. This engine is the base of Stockfish 14, derived from the chess engine Glaurung.
+OldWorld is a work-in-progress, closed-source UCI chess engine. It’s being built to be simple to understand, easy to work with, and strong enough to play at a high level against strong engines like Komodo, Rubichess, Carp, and more. This engine is the base of Stockfish 14, derived from the chess engine Glaurung.
+
+You can officially download the Oldworld chess engine [here](https://www.mediafire.com/file/4g6xqifpf2yihj2/Oldworld.zip/file)
 
 - Glaurung: [Phenri/glaurung](https://github.com/phenri/glaurung)
 - Stockfish repositories: [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish)
