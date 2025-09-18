@@ -21,6 +21,3 @@ Right now, OldWorld is still under development, so it requires UCI support to be
 
 ### Goals
 The purpose of OldWorld is to be a learning engine. It’s meant for anyone curious about how chess engines work, think, and perform. While it’s not on the same strength level as Stockfish, Komodo, or Obsidian, it shares its roots and gives a foundation to experiment on.
-
-### License
-OldWorld is released under the GNU General Public License (GPL). (https://github.com/impossible1660/Oldworld/blob/main/LICENSE)
